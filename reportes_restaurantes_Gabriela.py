@@ -1,8 +1,5 @@
 import csv
 
-# ─────────────────────────────────────────────
-# 1. LECTURA Y CONSTRUCCIÓN DE ESTRUCTURAS
-# ─────────────────────────────────────────────
 
 encuestados = []
 
